@@ -14,4 +14,5 @@
 ### Imagens do resultados:
 
 
-![Captura de tela 2023-03-27 013653](https://github.com/gabrielddrs/reconhecimento_facial/assets/105561645/2248e153-283f-4ffc-a18e-c3c874ded9c1)
+
+![Captura de tela 2023-03-27 215950](https://github.com/gabrielddrs/reconhecimento_facial/assets/105561645/3a46993c-46f0-4684-9f27-471ac07cc1fd)
