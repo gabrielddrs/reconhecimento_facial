@@ -2,7 +2,7 @@
 
 ### Ferramentas usadas:
 
-- Python 3.9.13 do Anaconda (https://www.anaconda.com/download/)
+- Python 3.9.13 e Jupyter Notebook do Anaconda (https://www.anaconda.com/download/)
 - Mediapipe 0.9.1 (https://google.github.io/mediapipe/)
 - OpenCV-Python 4.7 (https://docs.opencv.org/4.7.0/)
 
